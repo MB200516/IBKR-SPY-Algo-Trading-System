@@ -1,4 +1,5 @@
 How to setup:
+Clone the repository onto your local machine
 
 ## 1. Create a Python Virtual Environment
 
